@@ -1,4 +1,4 @@
-# CGV_Lab_18CSL67_VTU
+# COMPUTER GRAPHICS LABORATORY - 18CSL67 - VTU
 Here are the all program codes of the VTU Computer Graphics Lab (18CSL67) 
 #install Oracle VM Virtual Box from this link https://www.virtualbox.org/wiki/Downloads
 #then download Ubuntu LTS ISO version from this link  https://ubuntu.com/download/desktop
